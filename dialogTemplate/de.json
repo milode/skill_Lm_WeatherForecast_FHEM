@@ -1,0 +1,7 @@
+{
+    "skill": "Lm_WeatherForecast_FHEM",
+    "icon": "time",
+    "description": "Wettervorhersage ueber fhem",
+    "slotTypes": [],
+    "intents": []
+}
